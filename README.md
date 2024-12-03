@@ -1,3 +1,11 @@
+
+<div align="center">
+
+![image](https://github.com/user-attachments/assets/71e616f5-e655-49c7-a11f-abce0f238861)
+
+</div>
+
+
 ## Peers
 
 This project was made to test cache replicas. It uses the HTTP protocol for send data to cache on memory. The idea is to simulate peer communication.
