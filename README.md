@@ -1,6 +1,6 @@
 ## Peers
 
-This project was made to test cache replicas. It uses the HTTP protocol to send data, and the cache is in memory. The idia is simulate peers comunications.
+This project was made to test cache replicas. It uses the HTTP protocol for send data to cache on memory. The idea is to simulate peer communication.
 
 ## How does it work?
 
