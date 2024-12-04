@@ -20,7 +20,7 @@ When new peers join the network, all peerURLs are synchronized first. After that
 The rule to check if peers need an update is the timestamp.
 
 
-## What it doens't project do ?
+## What doesn't the project do?
 
 - There isn't data collision handling.
-- There aren't   security between connections peers
+- There isn't security between connections peers
